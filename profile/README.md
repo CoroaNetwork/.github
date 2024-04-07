@@ -25,7 +25,7 @@ Estas son solo algunas de las funciones principales que ofrece Zalo Network. El 
 
 ## Contribución
 
-¡Estamos abiertos a contribuciones! Si quieres contribuir al desarrollo de Zalo Network, puedes escribir a @yuhjak25. 
+¡Estamos abiertos a contribuciones! Si quieres contribuir al desarrollo de Zalo Network, puedes escribir a [@yuhjak25](https://github.com/yuhjak25). 
 
 ## Contacto
 
